@@ -2,7 +2,7 @@
 
 this is a temporary project on how to train a model which is capable to detect differen kinds of gui elements, i.e. comboboxes, buttons, text fields, in screenshots.
 
-aim: as a hobbyist i want to gain practical experience in the following task: generate a modell that can detect gui elements of a particular desktop application (google for "Object Detection for Graphical User Interface")
+aim: as a hobbyist i want to gain practical experience in the following task: generate a modell that can detect gui elements of a particular desktop application (google for "Object Detection for Graphical User Interface" or look at the 2021 blog article https://www.alibabacloud.com/blog/how-do-you-use-deep-learning-to-identify-ui-components_597859).
 
 - generate annotated data, e.g screenshots with bounding boxes around gui elements and type of gui element
 - how to train a model
